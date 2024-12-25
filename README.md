@@ -1,5 +1,3 @@
-# Avatar-
-
 name: Avatar Bot Deployment
 
 on:
