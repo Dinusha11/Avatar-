@@ -1,3 +1,4 @@
+```
 name: Avatar Bot Deployment
 
 on:
